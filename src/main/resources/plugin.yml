@@ -1,0 +1,4 @@
+name: SaS_hud
+version: 1.0.0
+main: com.nicolas.sas.hud.HudPlugin
+api-version: '26.2'
