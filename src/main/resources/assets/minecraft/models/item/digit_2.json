@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "hud:textures/gui/digit_2.png"
+  },
+  "gui_light": "front"
+}
